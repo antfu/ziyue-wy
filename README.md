@@ -4,16 +4,16 @@ This a library package for [Wenyan Lang](https://github.com/LingDong-/wenyan-lan
 
 ## Install
 
-You can use [wypm](https://github.com/antfu/wypm) to install
+Use [wyg](https://github.com/wenyan-lang/wyg) to install
 
 ```bash
-wypm install 子曰
+wyg install 子曰
 ```
 
 or
 
 ``` bash
-wypm install ziyue
+wyg install ziyue
 ```
 
 ## Usage
