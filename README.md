@@ -1,19 +1,19 @@
 # 子曰 ziyue, *Confucius said...*
 
-This a library package for [Wenyan Lang](https://github.com/LingDong-/wenyan-lang) (similar to cowsay)
+This a library package for [wenyan-lang](https://github.com/LingDong-/wenyan-lang) (similar to cowsay)
 
 ## Install
 
 Use [wyg](https://github.com/wenyan-lang/wyg) to install
 
 ```bash
-wyg install 子曰
+wyg i 子曰
 ```
 
 or
 
 ``` bash
-wyg install ziyue
+wyg i ziyue
 ```
 
 ## Usage
